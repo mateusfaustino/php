@@ -15,7 +15,6 @@
 15. ext/phar/zip.c portion extracted from libzip
 16. libbcmath (ext/bcmath) see ext/bcmath/libbcmath/LICENSE
 17. ext/mbstring/ucgendat portions based on the ucgendat.c from the OpenLDAP
-18. avifinfo (ext/standard/libavifinfo) see ext/standard/libavifinfo/LICENSE
 
 
 3. pcre2lib (ext/pcre)
@@ -592,7 +591,7 @@ OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
 IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-17. ext/mbstring/ucgendat portions based on the ucgendat.c from the OpenLDAP
+16. ext/mbstring/ucgendat portions based on the ucgendat.c from the OpenLDAP
 
 The OpenLDAP Public License
   Version 2.8, 17 August 2003
